@@ -1,27 +1,24 @@
+Mateo Murillo
+Estudiante de Ingeniería en Sistemas de Información (4to año).
+Me enfoco en desarrollar soluciones prácticas y escalables a problemas reales.
+
+Proyecto destacado
+Sistema de gestión de pedidos y producción para tienda de muebles a medida
+Proyecto Tesis — Ingeniería de Software
+Sistema orientado a informatizar la gestión integral de una tienda y taller, optimizando el flujo de trabajo y la toma de decisiones en áreas de producción, entregas y pedidos.
+
+Tecnologías y herramientas
+
+Lenguajes: C#, SQL
+Frameworks / Acceso a datos: .NET Framework, ADO.NET
+Herramientas: Git, GitHub, SQL Server Management Studio
+Otros: UML, metodologías ágiles, patrones de diseño
 
 
-# ¡Hola! Soy Mateo Murillo 👋
+Contacto
 
-🎓 Estudiante de Ingeniería en Sistemas de Información (4er año).  
-💻 Disfruto programar y encontrar soluciones prácticas a problemas en distintos entornos.
+LinkedIn
+mateomurillo332@gmail.com
 
-### Proyecto destacado
 
-** Sistema de gestión de pedidos y producción para tienda de muebles a medida  **  
-Actualmente en desarrollo como parte de la materia Ingeniería de Software.(Proyecto Tesis)  
-Este sistema busca informatizar la gestión de una tienda y taller, optimizando el flujo de trabajo y ayudando en la toma de decisiones sobre producción, entregas y pedidos.
-
-<!-- Más adelante podés poner el link al repositorio del proyecto cuando esté subido -->
-
-### 🛠 Tecnologías y herramientas que manejo
-- Lenguajes: SQL, C#
-- Herramientas: Git, GitHub.
-- Otros: UML, metodologías ágiles, patrones de diseño, SqlServer Management Studio 21
-
-### 📫 Contacto
-- 💼 LinkedIn: [Mateo Murillo](https://www.linkedin.com/in/mateo-murillo-934247323/)
-- ✉️ Email: mateomurillo332@gmail.com
-
----
-
-> *Siempre aprendiendo y mejorando. Apuntando a crear soluciones útiles y escalables.*
+Siempre aprendiendo y mejorando. Apuntando a crear soluciones útiles y escalables.
