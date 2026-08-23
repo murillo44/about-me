@@ -1,25 +1,16 @@
-Mateo Murillo
+### Hola, soy Mateo
 
-Estudiante de Ingeniería en Sistemas de Información (4to año).
-Me enfoco en desarrollar soluciones prácticas y escalables a problemas reales.
+Asistente Técnico en Ciberseguridad en EDSI Trend Argentina y estudiante de Ingeniería en Sistemas de Información. Me estoy preparando para la certificación **Certified in Cybersecurity (CC)** de ISC2, y en el día a día combino soporte técnico, automatización de scripts. análisis de malware, entre otras tareas.
 
-Proyecto destacado
-Sistema de gestión de pedidos y producción para tienda de muebles a medida
-Proyecto Tesis — Ingeniería de Software
-Sistema orientado a informatizar la gestión integral de una tienda y taller, optimizando el flujo de trabajo y la toma de decisiones en áreas de producción, entregas y pedidos.
+#### Proyecto destacado
+**[Nombre del repo]** — Sistema de gestión de pedidos y producción para una tienda de muebles a medida (Proyecto de Tesis, Ingeniería de Software). Informatiza la gestión integral de una tienda y taller, optimizando el flujo de producción, entregas y pedidos.
 
-Tecnologías y herramientas
+#### Tecnologías y herramientas
+- **Ciberseguridad:** VirusTotal, Any.Run, VMware, MX Lookup, Vision One
+- **Desarrollo:** C#, SQL, .NET Framework, ADO.NET
+- **Otros:** Git, GitHub, SQL Server Management Studio, UML, metodologías ágiles
 
-Lenguajes: C#, SQL
-Frameworks / Acceso a datos: .NET Framework, ADO.NET
-Herramientas: Git, GitHub, SQL Server Management Studio
-Otros: UML, metodologías ágiles, patrones de diseño
+#### Contacto
+[LinkedIn](https://www.linkedin.com/in/mateo-murillo-/) · [mateomurillo332@gmail.com](mailto:mateomurillo332@gmail.com)
 
-
-Contacto
-
-LinkedIn
-mateomurillo332@gmail.com
-
-
-Siempre aprendiendo y mejorando. Apuntando a crear soluciones útiles y escalables.
+Siempre aprendiendo. Rumbo a Analista de Ciberseguridad.
